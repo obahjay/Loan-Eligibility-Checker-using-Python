@@ -1,8 +1,4 @@
-# Python Study Group Gift II
-
-## Team D — Case Study Project
-
-## Titled - Loan Eligibility Checker
+# Loan Eligibility Checker using Python
 
 ###  About the Project
 
